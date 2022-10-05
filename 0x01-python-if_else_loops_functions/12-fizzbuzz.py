@@ -10,5 +10,6 @@ def fizzbuzz():
 			print('FizzBuzz')
 		else:
 			print(i)
+		i = i + 1
 fizzbuzz()
 i = 0
